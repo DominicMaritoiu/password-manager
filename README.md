@@ -1,4 +1,8 @@
 <h1>Password Manager Project</h1>
+
+![image](https://github.com/DominicMaritoiu/password-manager/assets/150853918/558de293-6f67-4503-8273-382ec72e83c1)
+
+
 <p>This Python project utilizes the Tkinter library to create a simple password manager. The application allows users to generate random passwords, save website login details, and retrieve them when needed.</p>
 <h2>Features</h2>
 <li>Generate Password: Click the "Generate Password" button to create a random password containing a combination of letters, numbers, and symbols.</li>
