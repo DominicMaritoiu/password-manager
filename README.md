@@ -1,5 +1,5 @@
 
-<h1 align="center"Password Manager Project>
+<h1 align="center"Password Manager Project</h1>
 This Python project utilizes the Tkinter library to create a simple password manager. The application allows users to generate random passwords, save website login details, and retrieve them when needed.
 
 Features
